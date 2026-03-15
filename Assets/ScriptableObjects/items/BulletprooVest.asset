@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 968f2d6764bebc041a4396e025007e33, type: 3}
+  m_Name: BulletprooVest
+  m_EditorClassIdentifier: Assembly-CSharp::TestTaskInventory.Inventory.Runtime.InventoryItemDefinition
+  _id: 6
+  _displayName: Bulletproof vest
+  _icon: {fileID: -107059191, guid: 57b5a7b35f5f3da47bb7f55afc9f7258, type: 3}
+  _category: 3
+  _ammoType: 0
+  _weightKg: 10
+  _maxStack: 1
+  _damage: 0
+  _defense: 10

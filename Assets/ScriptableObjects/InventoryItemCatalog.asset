@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54c79cb8458a79248b09a65232b61ad1, type: 3}
+  m_Name: InventoryItemCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::TestTaskInventory.Inventory.Runtime.InventoryItemCatalog
+  _items:
+  - {fileID: 11400000, guid: 11ff52b7605157e43bc66f39be58cb48, type: 2}
+  - {fileID: 11400000, guid: a74c516926287ae4bab1a1424ad9d201, type: 2}
+  - {fileID: 11400000, guid: 9ff3069359d02ac42a3f845eaca6a3ab, type: 2}
+  - {fileID: 11400000, guid: 270d4e7f4d4211a468bafe5f6617007b, type: 2}
+  - {fileID: 11400000, guid: b46abbdf897b10d4da841d28f644e800, type: 2}
+  - {fileID: 11400000, guid: 3eb2b6e70fc122e4983dc0aa2ebabf7d, type: 2}
+  - {fileID: 11400000, guid: 6fd229087a06d49429b0f1fb7c3a9d3a, type: 2}
+  - {fileID: 11400000, guid: b5f5d9fb1d4842e41b1b3b267b709fd7, type: 2}
